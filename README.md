@@ -25,3 +25,16 @@ You can also customize the settings in `config.py`.
 
 ## Contact
 Please contact Yuhan Chen (draym@qq.com or draym28@gmail.com) or Yihong Luo (yluocg@connect.ust.hk) if you have any question about this code. 
+
+## Citation
+If you find DeGEM useful in your work, you can cite the following paper:
+```
+@inproceedings{
+chen2025decoupled,
+title={Decoupled Graph Energy-based Model for Node Out-of-Distribution Detection on Heterophilic Graphs},
+author={Yuhan Chen and Yihong Luo and Yifan Song and Pengwen Dai and Jing Tang and Xiaochun Cao},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=NuVBI4wPMm}
+}
+```
